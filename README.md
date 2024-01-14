@@ -1,6 +1,6 @@
 # <img src='Workflow/icon.png' width='45' align='center' alt='icon'> Turn Shoot Alfred Workflow
 
-A two-player reflexes game
+A reflexes game for two players
 
 [⤓ Install on the Alfred Gallery](https://alfred.app/workflows/vitor/turn-shoot)
 
