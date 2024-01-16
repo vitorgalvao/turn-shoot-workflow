@@ -105,7 +105,7 @@
 				<key>subtext</key>
 				<string>Player 1 uses "{var:key_player_one}" and player 2 uses "{var:key_player_two}"</string>
 				<key>text</key>
-				<string>TurnShoot</string>
+				<string>{const:alfred_workflow_name}</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
