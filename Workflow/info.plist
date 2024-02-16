@@ -102,6 +102,8 @@
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>{var:game_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>Player 1 uses "{var:key_player_one}" and player 2 uses "{var:key_player_two}"</string>
 				<key>text</key>
@@ -209,6 +211,8 @@ fi</string>
 				<integer>1</integer>
 				<key>scriptfile</key>
 				<string></string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
