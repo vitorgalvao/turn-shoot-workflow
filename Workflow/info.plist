@@ -437,7 +437,7 @@ After a few seconds the workflow will tell you to react, and the first player to
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2024.1</string>
+	<string>2024.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/vitorgalvao/turn-shoot-workflow/</string>
 </dict>
